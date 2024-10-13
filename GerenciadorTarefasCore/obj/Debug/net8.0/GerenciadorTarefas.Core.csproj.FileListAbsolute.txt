@@ -1,0 +1,15 @@
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\bin\Debug\net8.0\GerenciadorTarefas.Core.deps.json
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\bin\Debug\net8.0\GerenciadorTarefas.Core.runtimeconfig.json
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\bin\Debug\net8.0\GerenciadorTarefas.Core.dll
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\bin\Debug\net8.0\GerenciadorTarefas.Core.pdb
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\obj\Debug\net8.0\GerenciadorTarefas.Core.csproj.AssemblyReference.cache
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\obj\Debug\net8.0\GerenciadorTarefas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\obj\Debug\net8.0\GerenciadorTarefas.Core.AssemblyInfoInputs.cache
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\obj\Debug\net8.0\GerenciadorTarefas.Core.AssemblyInfo.cs
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\obj\Debug\net8.0\GerenciadorTarefas.Core.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\obj\Debug\net8.0\GerenciadorTarefas.Core.sourcelink.json
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\obj\Debug\net8.0\GerenciadorTarefas.Core.dll
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\obj\Debug\net8.0\refint\GerenciadorTarefas.Core.dll
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\obj\Debug\net8.0\GerenciadorTarefas.Core.pdb
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\obj\Debug\net8.0\GerenciadorTarefas.Core.genruntimeconfig.cache
+C:\Desenvolvimento\API´s C#\GerenciadorTarefasAPI\GerenciadorTarefasCore\obj\Debug\net8.0\ref\GerenciadorTarefas.Core.dll
